@@ -1,13 +1,1 @@
-## Eine Überschrift
-
-Hallo GitHub. Wie geht es dir?
-
-Test Test Test Test Test23
-
-
-https://pbs.twimg.com/media/FrILb-9XwAQlaIG.png
-
-hi~
-
-geht das so?
->>>>>>>>> Temporary merge branch 2
+leer
