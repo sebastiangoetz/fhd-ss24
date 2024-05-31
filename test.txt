@@ -8,3 +8,9 @@ Test Test Test Test Test23
 https://pbs.twimg.com/media/FrILb-9XwAQlaIG.png
 
 Hallo Ich pushe to the limit
+
+Ein Entwickler, der pushte mit Macht,
+hat das Pullen zu oft nicht bedacht.
+Doch als der Code dann zerbrach,
+dachte er sich ganz schwach:
+"Ein Pull hätte das wohl gemacht!"
